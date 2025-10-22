@@ -74,7 +74,7 @@ Here is the reference on the usage of the API:
 ## Deployment
 
 The API has been deployed to a publicly accessible endpoint on Railway:
-[Live URL]()
+[Live URL](https://hng13stage1-production-9b87.up.railway.app)
 
 ## Author
 
